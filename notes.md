@@ -1,0 +1,1 @@
+Primary Key: A person can have a unique id under two different companies in two differnt databases. Its how you guarentee uniqueness
